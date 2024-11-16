@@ -30,5 +30,13 @@
 			"IsSimple": true,
 			"SimplePrivilege": 2
 		}
+	},
+	{
+		"Name": "RiskManager",
+		"Description": "",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 3
+		}
 	}
 ]
